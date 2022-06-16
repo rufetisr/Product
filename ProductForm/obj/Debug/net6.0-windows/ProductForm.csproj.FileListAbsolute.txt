@@ -1,0 +1,37 @@
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.exe
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.deps.json
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.runtimeconfig.json
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.dll
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.pdb
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.csproj.AssemblyReference.cache
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.Form1.resources
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.Form2.resources
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.dll
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\refint\ProductForm.dll
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.pdb
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.genruntimeconfig.cache
+C:\Users\Asus\Source\Repos\ProductForm\ProductForm\obj\Debug\net6.0-windows\ref\ProductForm.dll
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.exe
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.deps.json
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.runtimeconfig.json
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.dll
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\bin\Debug\net6.0-windows\ProductForm.pdb
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.Form1.resources
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.Form2.resources
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.AssemblyInfo.cs
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.dll
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\refint\ProductForm.dll
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.pdb
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.genruntimeconfig.cache
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ref\ProductForm.dll
+C:\Users\Asus\source\repos\New folder (2)\ProductForm\ProductForm\obj\Debug\net6.0-windows\ProductForm.Properties.Resources.resources
